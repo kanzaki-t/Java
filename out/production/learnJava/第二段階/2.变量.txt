@@ -1,0 +1,33 @@
+/*
+    变量
+
+    1.变量声明的格式
+        - 数据类型 变量名 = 变量值
+
+    2.变量的数据类型
+        基本数据类型：
+            整型：byte short int long
+            浮点型：float double
+            字符型：char
+            布尔值：boolean
+        引用数据类型：
+            类：class
+            数组：array
+            接口：interface
+            枚举：enum
+            注解：annotation
+            记录：record
+*/
+
+
+class IdentifierTest {
+    public static void main(String[] args){
+        char gender;
+        gender = "man";
+
+        int age = 20;
+
+        System.out.println(age);
+        System.out.println(gender);
+    }
+}
