@@ -1,3 +1,5 @@
+package lv1;
+
 /**
  * ClassName: TwoArray
  * Package: PACKAGE_NAME
@@ -6,7 +8,7 @@
  * Author: Kanzaki
  * Create: 2023/03/12-23:48
  */
-public class TwoArray {
+public class OneArrayTest2 {
     public static void main(String[] args) {
         /*
             5.数组元素的默认初始化值

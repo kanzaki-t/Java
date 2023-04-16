@@ -1,3 +1,5 @@
+package lv1;
+
 /**
  * ClassName: OneArray
  * Package: PACKAGE_NAME
@@ -6,7 +8,7 @@
  * Author: Kanzaki
  * Create: 2023/03/12-23:11
  */
-public class OneArray {
+public class OneArrayTest1 {
     public static void main(String[] args) {
         /*
             1.数组的声明和初始化
