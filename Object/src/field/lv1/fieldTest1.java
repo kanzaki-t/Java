@@ -1,4 +1,4 @@
-package lv1;
+package field.lv1;
 
 /**
  * ClassName: fieldTest
