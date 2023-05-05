@@ -50,3 +50,8 @@
 
     class B extents A {
     }
+
+- 面向对象特征之一：多态性
+    理解为一个事物的多种形态
+
+    Person p1 = new Man();
