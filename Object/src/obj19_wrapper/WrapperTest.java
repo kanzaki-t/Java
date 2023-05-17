@@ -48,8 +48,8 @@ public class WrapperTest {
     @Test
     public void test3(){
         // 自动装箱
-        int m1 = 50;
-        Integer m2 = m1;
+        int m9 = 50;
+        Integer m2 = m9;
         System.out.println(m2.toString());
 
         // 自动拆箱
