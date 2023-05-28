@@ -26,6 +26,15 @@ public class Main {
         }catch (InputMismatchException e){
             System.out.println("出错了");
             System.out.println(e); // java.util.InputMismatchException
+            e.printStackTrace();
+            /**
+             * java.util.InputMismatchException
+             * 	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+             * 	at java.base/java.util.Scanner.next(Scanner.java:1594)
+             * 	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+             * 	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+             * 	at exception02.Main.main(Main.java:21)
+             */
         }
     }
 }
