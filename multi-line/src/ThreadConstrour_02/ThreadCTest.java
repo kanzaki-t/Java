@@ -1,4 +1,4 @@
-package ThreadConstrour;
+package ThreadConstrour_02;
 
 /**
  * ClassName: ThreadCTest
