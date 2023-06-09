@@ -1,8 +1,0 @@
-方式一：
-        int m = 10;
-        int n = 20;
-
-        //声明一个临时变量（推荐）
-        int temp = m;
-        m = n;
-        n = temp;

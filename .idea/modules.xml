@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Object/Object.iml" filepath="$PROJECT_DIR$/Object/Object.iml" />
-      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter01_base/chapter01_base.iml" filepath="$PROJECT_DIR$/chapter01_base/chapter01_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter02_arr/chapter02_arr.iml" filepath="$PROJECT_DIR$/chapter02_arr/chapter02_arr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter03_object/chapter03_object.iml" filepath="$PROJECT_DIR$/chapter03_object/chapter03_object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter04_Exception/chapter04_Exception.iml" filepath="$PROJECT_DIR$/chapter04_Exception/chapter04_Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter05_thread/chapter05_thread.iml" filepath="$PROJECT_DIR$/chapter05_thread/chapter05_thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter06_api/chapter06_api.iml" filepath="$PROJECT_DIR$/chapter06_api/chapter06_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guessNumberGame/guessNumberGame.iml" filepath="$PROJECT_DIR$/guessNumberGame/guessNumberGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/learnJava.iml" filepath="$PROJECT_DIR$/learnJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/multi-line/multi-line.iml" filepath="$PROJECT_DIR$/multi-line/multi-line.iml" />
-      <module fileurl="file://$PROJECT_DIR$/number/number.iml" filepath="$PROJECT_DIR$/number/number.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,11 @@
+如何从键盘获取不同类型的变量
+
+1.使用Scanner获取不同类型数据的步骤
+    - 导包：
+            import java,util.Scanner
+    - 提供或创建一个Scanner类的实例：
+            Scanner scanner = new Scanner(System.in)
+    - 调用Scanner类中的方法，获取指定类型的变量：
+            String name = scanner.next()
+    - 关闭资源，调用Scanner类的close():
+            scanner.close()

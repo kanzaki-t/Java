@@ -1,0 +1,25 @@
+if () {
+
+}
+
+if () {
+
+} else {
+
+}
+
+if () {
+
+} else if () {
+
+} else {
+
+}
+
+
+注意条件设定的顺序
+
+判断字符串形式：
+String name = "小明";
+错误写法：if (name == "小明")
+正确写法：if (name.equals("小明") )
