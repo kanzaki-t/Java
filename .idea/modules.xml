@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/chapter04_Exception/chapter04_Exception.iml" filepath="$PROJECT_DIR$/chapter04_Exception/chapter04_Exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter05_thread/chapter05_thread.iml" filepath="$PROJECT_DIR$/chapter05_thread/chapter05_thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter06_api/chapter06_api.iml" filepath="$PROJECT_DIR$/chapter06_api/chapter06_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter07_collection/chapter07_collection.iml" filepath="$PROJECT_DIR$/chapter07_collection/chapter07_collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter08_generic/chapter08_generic.iml" filepath="$PROJECT_DIR$/chapter08_generic/chapter08_generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/guessNumberGame/guessNumberGame.iml" filepath="$PROJECT_DIR$/guessNumberGame/guessNumberGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/learnJava.iml" filepath="$PROJECT_DIR$/learnJava.iml" />
     </modules>
