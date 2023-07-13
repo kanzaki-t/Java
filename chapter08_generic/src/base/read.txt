@@ -1,2 +1,20 @@
 泛型
     标识，类型
+
+    自定义泛型类
+        class A<T>{
+        }
+
+    自定义泛型接口
+        interface B<T>{
+        }
+
+    ORM思想（object relational mapping）
+        > 数据库中的一个表 与 Java中的一个类对应
+        > 表中的一条记录 与 Java类的一个对象对应
+        > 表中的一个字段或者列 与 Java类的对象的一个属性对应
+
+    通配符
+        > ？
+        > 读取时，接收是Object
+        > 无法写入
